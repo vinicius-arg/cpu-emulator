@@ -1,21 +1,34 @@
-# PSEL_CORETECH_2025
+# CPU Emulator
 
-O grupo é composto pelos seguintes discentes:
+(Docs under construcion)
 
-| Nome                           | Curso                        |
-|--------------------------------|------------------------------|
-| Francisco Passos (Frank Steps) | Ciência da Computação        |
-| Gabriel Santos                 | Engenharia da Computação     |
-| Guilherme Ferreira             | Ciência da Computação        |
-| João Vinicíus de A.            | Engenharia da Computação     |
+---
 
-| Avaliador:                     |
-|--------------------------------|
-| William Gabriel Braga (Will)   |
+## Overview
 
-Esta etapa do PSEL da CORETECH foi finalizada e agradeço aos membros responsáveis pelo desenvolvimento deste projeto. 
+This project implements computer architecture concepts to simulate low-level CPU behavior by decoding machine code instructions into Assembly.
 
-# Atualizações: 
+It was built as part of admission process of my university's Hardware and Robotics Academic League. 
 
-16/11/25
-Este projeto foi aprovado na última etapa que antecede a entrevista e todos os membros participantes deste projeto passaram para a próxima etapa. 
+I'm grateful to the colleagues who worked on it with me; Francisco Passos (@FrankSteps), Gabriel Santos (@gbr-ufs) and Guilherme Ferreira (@GuilhermeAmancio).
+
+---
+
+## Architecture
+
+...
+
+### Execution Flow
+
+...
+
+---
+
+## Usage
+
+...
+
+### Build
+
+```bash
+make
